@@ -1,0 +1,14 @@
+# windows
+**/Thumbs.db
+
+# Mac
+.DS_Store                                                                                                                                                        
+
+# vim 文件
+**/*.swp
+**/*.swn
+**/*.swo
+
+#sublime text
+**/*.sublime-project
+**/*.sublime-workspace
